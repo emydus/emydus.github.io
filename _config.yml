@@ -13,18 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: emydus's blog
+title: emydus' blog
 email: emydusu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   an experiment
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://emydus.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://emydus.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 talkyard_server_url: https://comments-for-emydus-xyz.talkyard.net
 #disqus_shortname: emydus
 twitter_username: yjt_yujie
 github_username: emydus
 instagram_username: yjt_yujie
 #linkedin_username: yu-jie-tan-06442a134
+header_pages:
+  - about.md
 
 # Build settings
 markdown: kramdown
