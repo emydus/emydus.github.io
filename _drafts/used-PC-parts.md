@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Used PC components"
-date: 2019-08-17 02:14:00 +0800
+date: 2019-07-17 02:14:00 +0800
 categories: Blog
 comments: true
 tags:
