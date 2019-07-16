@@ -2,8 +2,10 @@
 layout: post
 title:  "First post?"
 date:   2019-03-21 10:42:45 +0000
-categories: jekyll update
-discussion_id: per-discussion-id
+categories: upkeep Blog
+comments: true
+tags:
+    - upkeep
 ---
 
 Setting up ruby without a proper package manager !!!

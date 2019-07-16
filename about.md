@@ -2,12 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+categories: About
+sidebar_link: true
 ---
 
-Currently sticking it out through a bachelors.
+<img src="/assets/images/profile.jpg" width="500"/>
 
-Hobbies include videogames, coding.
+Currently sticking it out through a BSc Physics with Comp. Sci.
 
-I occasionally help organise the Dota 2 players at my university into teams.
-
-Started playing Dota 2 in 2014.
+Hobbies include videogames, coding, photography, reading, bodyweight fitness.
