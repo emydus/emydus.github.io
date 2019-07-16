@@ -27,7 +27,7 @@ disqus:
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hydeout
-#remote_theme: fongandrew/hydeout
+remote_theme: fongandrew/hydeout
 paginate: 5
 plugins:
   - jekyll-feed
