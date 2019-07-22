@@ -33,7 +33,23 @@ plugins:
   - jekyll-feed
 sass:
   style: compressed
-  
+
+# jekyll-compose
+  jekyll_compose:
+    draft_default_front_matter:
+      layout: post
+      title: 
+      date: 
+      categories: Blog
+      comments: true
+      tags:
+    post_default_front_matter:
+      layout: post
+      title: 
+      date: 
+      categories: Blog
+      comments: true
+      tags:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
